@@ -7,6 +7,6 @@ while True:
     for h in range(57):
         ttvd = ttvd -1
         print(ttvd)
-        time.sleep(1)
+        time.sleep(3600)
         if ttvd == 0:
             break
